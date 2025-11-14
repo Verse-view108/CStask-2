@@ -1,9 +1,9 @@
 # CStask-2
 
-**Phishing Email Analysis – What We Learned**
+**Phishing Email Analysis – What I Learned**
 
 ## Objective  
-Understand phishing attacks through real email analysis.
+To understand phishing attacks through real email analysis.
 
 ## Key Learnings  
 - **Phishing** is fake emails that trick you into giving passwords or money.  
